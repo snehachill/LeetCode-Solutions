@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0896-monotonic-array](https://github.com/snehachill/LeetCode-Solutions/tree/master/0896-monotonic-array) |
 | [1051-height-checker](https://github.com/snehachill/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [2733-neither-minimum-nor-maximum](https://github.com/snehachill/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Sorting
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/snehachill/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [2733-neither-minimum-nor-maximum](https://github.com/snehachill/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Counting Sort
 |  |
 | ------- |
