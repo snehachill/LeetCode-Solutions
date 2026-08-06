@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/snehachill/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/snehachill/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/snehachill/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/snehachill/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/snehachill/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/snehachill/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/snehachill/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/snehachill/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
