@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/snehachill/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/snehachill/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/snehachill/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/snehachill/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/snehachill/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Quicksort
@@ -107,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/snehachill/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/snehachill/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
