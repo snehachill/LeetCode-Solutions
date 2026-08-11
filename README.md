@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/snehachill/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/snehachill/LeetCode-Solutions/tree/master/1051-height-checker) |
+| [2351-first-letter-to-appear-twice](https://github.com/snehachill/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/snehachill/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/snehachill/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/snehachill/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/snehachill/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/snehachill/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/snehachill/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/snehachill/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/snehachill/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1980-find-unique-binary-string](https://github.com/snehachill/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/snehachill/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Backtracking
 |  |
 | ------- |
