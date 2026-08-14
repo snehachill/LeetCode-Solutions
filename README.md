@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/snehachill/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/snehachill/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/snehachill/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/snehachill/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/snehachill/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/snehachill/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/snehachill/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/snehachill/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/snehachill/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/snehachill/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/snehachill/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/snehachill/LeetCode-Solutions/tree/master/1051-height-checker) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/snehachill/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/snehachill/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/snehachill/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/snehachill/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
