@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/snehachill/LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1572-matrix-diagonal-sum](https://github.com/snehachill/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1980-find-unique-binary-string](https://github.com/snehachill/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/snehachill/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2733-neither-minimum-nor-maximum](https://github.com/snehachill/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Sorting
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/snehachill/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/snehachill/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/snehachill/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/snehachill/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/snehachill/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/snehachill/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
