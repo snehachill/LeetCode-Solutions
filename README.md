@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/snehachill/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/snehachill/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/snehachill/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/snehachill/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/snehachill/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/snehachill/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/snehachill/LeetCode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -150,5 +151,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/snehachill/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/snehachill/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/snehachill/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
