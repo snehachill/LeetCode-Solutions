@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/snehachill/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/snehachill/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/snehachill/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/snehachill/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/snehachill/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/snehachill/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/snehachill/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/snehachill/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/snehachill/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/snehachill/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/snehachill/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/snehachill/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/snehachill/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/snehachill/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/snehachill/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
