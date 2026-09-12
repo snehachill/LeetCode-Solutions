@@ -207,4 +207,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/snehachill/LeetCode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/snehachill/LeetCode-Solutions/tree/master/3904-smallest-stable-index-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/snehachill/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/snehachill/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/snehachill/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/snehachill/LeetCode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
