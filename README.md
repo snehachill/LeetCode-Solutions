@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/snehachill/LeetCode-Solutions/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/snehachill/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/snehachill/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/snehachill/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/snehachill/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/snehachill/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/snehachill/LeetCode-Solutions/tree/master/0896-monotonic-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/snehachill/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/snehachill/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/snehachill/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/snehachill/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/snehachill/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
